@@ -1,3 +1,6 @@
 [submodule "AsyncDisplayKit"]
 	path = AsyncDisplayKit
 	url = https://github.com/Farteen/AsyncDisplayKit
+[submodule "Bolts-iOS"]
+	path = Bolts-iOS
+	url = https://github.com/Farteen/Bolts-iOS
